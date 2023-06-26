@@ -1,32 +1,32 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "EraseDa",
+    name: "지우",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "Keep going.",
+    bio: "J가 되고싶은 P 개발자",
     email: "fkakrla123@gmail.com",
-    linkedin: "EraseDa",
+    linkedin: "",
     github: "EraseDa",
     instagram: "",
   },
   projects: [
     {
-      name: `git hub`,
-      href: "https://github.com/Waylama",
+      name: `구현 중입니다.`,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
     title: "EraseDa blog",
     description: "Note for me",
-    theme: "auto", // ['light', 'dark', 'auto']
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  since: 2023, // If leave this empty, current year will be used.
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
