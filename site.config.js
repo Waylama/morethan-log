@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "EraseDa blog",
     description: "Note for me",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
